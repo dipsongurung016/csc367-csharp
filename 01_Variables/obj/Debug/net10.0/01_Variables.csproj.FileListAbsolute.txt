@@ -1,0 +1,14 @@
+/home/silicon/Documents/6thSem/dotNet/01_Variables/bin/Debug/net10.0/01_Variables
+/home/silicon/Documents/6thSem/dotNet/01_Variables/bin/Debug/net10.0/01_Variables.deps.json
+/home/silicon/Documents/6thSem/dotNet/01_Variables/bin/Debug/net10.0/01_Variables.runtimeconfig.json
+/home/silicon/Documents/6thSem/dotNet/01_Variables/bin/Debug/net10.0/01_Variables.dll
+/home/silicon/Documents/6thSem/dotNet/01_Variables/bin/Debug/net10.0/01_Variables.pdb
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.AssemblyInfoInputs.cache
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.AssemblyInfo.cs
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.csproj.CoreCompileInputs.cache
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.dll
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/refint/01_Variables.dll
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.pdb
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/01_Variables.genruntimeconfig.cache
+/home/silicon/Documents/6thSem/dotNet/01_Variables/obj/Debug/net10.0/ref/01_Variables.dll

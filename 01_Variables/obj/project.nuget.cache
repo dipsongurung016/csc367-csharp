@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBNRskyknAw=",
+  "success": true,
+  "projectFilePath": "/home/silicon/Documents/6thSem/dotNet/01_Variables/01_Variables.csproj",
+  "expectedPackageFiles": [
+    "/home/silicon/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.9/microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
