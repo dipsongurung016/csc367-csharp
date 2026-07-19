@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program
+{
+    static void Main()
+    {
+        const double pi=3.14159;
+        Console.WriteLine(pi);
+    }
+}

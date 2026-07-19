@@ -1,0 +1,15 @@
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/bin/Debug/net10.0/02_constants
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/bin/Debug/net10.0/02_constants.deps.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/bin/Debug/net10.0/02_constants.runtimeconfig.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/bin/Debug/net10.0/02_constants.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/bin/Debug/net10.0/02_constants.pdb
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.GeneratedMSBuildEditorConfig.editorconfig
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.AssemblyInfoInputs.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.AssemblyInfo.cs
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.csproj.CoreCompileInputs.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.sourcelink.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/refint/02_constants.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.pdb
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/02_constants.genruntimeconfig.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/Debug/net10.0/ref/02_constants.dll
