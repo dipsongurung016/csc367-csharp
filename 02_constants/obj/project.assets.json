@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/01_Variables/01_Variables.csproj",
-      "projectName": "01_Variables",
-      "projectPath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/01_Variables/01_Variables.csproj",
+      "projectUniqueName": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/02_constants.csproj",
+      "projectName": "02_constants",
+      "projectPath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/02_constants.csproj",
       "packagesPath": "/home/silicon/.nuget/packages/",
-      "outputPath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/01_Variables/obj/",
+      "outputPath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/02_constants/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/silicon/.nuget/NuGet/NuGet.Config"
