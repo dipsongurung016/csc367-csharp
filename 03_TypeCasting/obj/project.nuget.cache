@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+1muikw118=",
+  "success": true,
+  "projectFilePath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/03_TypeCasting/03_TypeCasting.csproj",
+  "expectedPackageFiles": [
+    "/home/silicon/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
