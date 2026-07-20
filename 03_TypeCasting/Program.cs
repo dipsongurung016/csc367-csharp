@@ -5,6 +5,11 @@
         double a = 3.14;
         int b = Convert.ToInt32(a);
         //int c = 10;
-        Console.WriteLine(b);
+        Console.WriteLine(b.GetType());
+        Console.WriteLine(a.GetType());
+
+        int c=123;
+        double d = Convert.ToDouble(c);
+        Console.WriteLine(d.GetType());
     }
 }
