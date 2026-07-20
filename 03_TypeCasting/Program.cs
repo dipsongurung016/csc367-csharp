@@ -11,5 +11,11 @@
         int c=123;
         double d = Convert.ToDouble(c);
         Console.WriteLine(d.GetType());
+        Console.WriteLine(c.GetType());
+
+        int e=321;
+        string f = Convert.ToString(e);
+        Console.WriteLine(f.GetType());
+        Console.WriteLine(e.GetType());
     }
 }
