@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 class Program
 {
@@ -23,15 +23,15 @@ class Program
         Console.WriteLine($"Height: {height} meters");
     }
 }
-*/
 
-using System;
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("what is your name?");
-        string name = Console.ReadLine();
-        Console.WriteLine("your name is " + name);
-    }
-}
+
+// using System;
+// class Program
+// {
+//     static void Main()
+//     {
+//         Console.WriteLine("what is your name?");
+//         string name = Console.ReadLine();
+//         Console.WriteLine("your name is " + name);
+//     }
+// }
