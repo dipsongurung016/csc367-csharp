@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzOapsec+X4=",
+  "success": true,
+  "projectFilePath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/05_arithmeticOperators/05_arithmeticOperators.csproj",
+  "expectedPackageFiles": [
+    "/home/silicon/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
