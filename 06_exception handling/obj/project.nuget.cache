@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzDJi/fWwxw=",
+  "success": true,
+  "projectFilePath": "/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/06_exception handling.csproj",
+  "expectedPackageFiles": [
+    "/home/silicon/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

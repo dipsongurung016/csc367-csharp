@@ -1,0 +1,15 @@
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/bin/Debug/net10.0/06_exception handling
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/bin/Debug/net10.0/06_exception handling.deps.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/bin/Debug/net10.0/06_exception handling.runtimeconfig.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/bin/Debug/net10.0/06_exception handling.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/bin/Debug/net10.0/06_exception handling.pdb
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.AssemblyInfoInputs.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.AssemblyInfo.cs
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.csproj.CoreCompileInputs.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.sourcelink.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/refint/06_exception handling.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.pdb
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/06_exception handling.genruntimeconfig.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/06_exception handling/obj/Debug/net10.0/ref/06_exception handling.dll
