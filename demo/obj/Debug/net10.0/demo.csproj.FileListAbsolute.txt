@@ -1,0 +1,15 @@
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/bin/Debug/net10.0/demo
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/bin/Debug/net10.0/demo.deps.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/bin/Debug/net10.0/demo.runtimeconfig.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/bin/Debug/net10.0/demo.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/bin/Debug/net10.0/demo.pdb
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.AssemblyInfoInputs.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.AssemblyInfo.cs
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.csproj.CoreCompileInputs.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.sourcelink.json
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/refint/demo.dll
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.pdb
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/demo.genruntimeconfig.cache
+/home/silicon/Documents/github_code/6thSem/csc367-csharp/demo/obj/Debug/net10.0/ref/demo.dll
